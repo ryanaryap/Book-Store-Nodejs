@@ -1,4 +1,4 @@
-**Book Store Simple Theme**
+**Book Store Simple Front End**
 
 Home Page 
 
